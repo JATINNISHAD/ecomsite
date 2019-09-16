@@ -28,11 +28,7 @@ const NavigationBar=()=>{
                                <i className="fas fa-shopping-cart"></i> Cart
                             </Link>
                         </NavItem>
-                        <NavItem>
-                            <Link to="/" className="nav-link">
-                                slider
-                            </Link>
-                        </NavItem>
+                        
                     </Nav>
                 </Collapse>
             </Navbar>
