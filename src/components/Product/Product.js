@@ -57,7 +57,7 @@ const ProductWrapper = styled.div`
         border-top:transparent;
         transition:all 1s linear;
     }
-    &:hover{
+    &:hover:active{
         .card{
             border:0.04rem solid rgba(0,0,0,0.2);
             box-shadow:2px 2px 5px 0px rgba(0,0,0,0.2);
